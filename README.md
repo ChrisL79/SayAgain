@@ -73,8 +73,8 @@ Grab the latest `SayAgainSetup.exe` from the [Releases](../../releases) page and
 3. Go to **File → CAT Settings…** — use the filter box to find your rig, pick the COM port, click **Test PTT**. If the radio keys for one second and unkeys, you're done.
 4. Click **Record** on macro slot #1, hold it until the circle completes, then talk into your mic, click **Stop** then **Save**.
 5. Click **TX** on that macro to key the radio and play it out over the air.
-6. To rename a macro, double click on the macro name. Enter your own macro name in the popup box then click OK.
-7. To delete a macro, right click the macro name and then press Delete Recording.
+6. **To rename a macro**, double click on the macro name. Enter your own macro name in the popup box then click OK.
+7. **To delete a macro**, right click the macro name and then press Delete Recording.
 8. SayAgain recorded macro location is C:\Users\**YOUR USERNAME**\SayAgain Recordings. This can be changed in **FILE**, **RECORDING FILE LOCATION**.
 
 ---
