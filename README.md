@@ -95,7 +95,7 @@ If your exact rig isn't in the dropdown, **Generic RTS PTT** or **Generic DTR PT
 
 ## Licence
 
-See `LICENSE` in the repo root.
+Free to use for the ham community. Not to be sold!!!
 
 ---
 
