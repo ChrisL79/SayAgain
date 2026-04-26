@@ -1,5 +1,9 @@
 # SayAgain
 
+I make programs for myself if nothing exists that i exactly want. If they turn out to be half decent, i will share them with the world.
+
+I'm not a programmer! I just program for fun and to create something i need.
+
 **An amateur radio voice keyer for Windows.**
 
 Point it at any HF/VHF/UHF transceiver with a CAT capable serial port and a virtual (or physical) audio cable, and you have six instantly replayable voice macros at your fingertips.
